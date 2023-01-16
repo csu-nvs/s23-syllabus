@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+  max-width: 100%;
+}
+
+.main-content table {
+  overflow: scroll;
+}
