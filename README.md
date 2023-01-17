@@ -293,10 +293,10 @@ Your feedback is important! The instructor will read all of your comments, and u
 Please put yourself in the instructor's shoes, and be **constructive** in
 your comments.
 
-## CSU Resources and Policies
-
-Please visit the following CSU page to view policies relevant to your courses, and resources to help with various challenges you may encounter: [https://col.st/2FA2g](https://col.st/2FA2g)
-
 ## Typos and Bug Fixes
 
 Please use the Issues or Pull Request features of GitHub to bring any typos or bugs to the instructor's attention.
+
+## CSU Resources and Policies
+
+Please visit the following CSU page to view policies relevant to your courses, and resources to help with various challenges you may encounter: [https://col.st/2FA2g](https://col.st/2FA2g)
