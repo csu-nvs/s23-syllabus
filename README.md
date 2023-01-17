@@ -132,17 +132,17 @@ The Project Report (an the accompanying Project Code) are due on the last day of
 
 ## Project Presentation
 
-We will have short final-project presentations during the final class period. Each presentation time slot will be about 6 minutes. Aim for **4-5 minutes** of presentation, and that will leave 1-2 minutes for questions. Please practice your talk to ensure that it falls in the 4-5 minute range, so that we can keep on schedule. Your presentations slides are due the week before the first presentation begins (see Schedule). Please upload your slides in PDF format to your project repository.
+We will have short final-project presentations during the final class period. Each presentation time slot will be about 6 minutes. Aim for **4-5 minutes** of presentation, and that will leave 1-2 minutes for questions. Please practice your talk to ensure that it falls in the 4-5 minute range, so that we can keep on schedule. Your presentations slides are due before the first presentation begins (see Schedule). Please upload your slides in PDF format to your project repository.
 
 In your talk, please be sure to cover each of the 4 elements on the project (Introduction, Examples, Approach, Evaluation). One detailed slide for each of these should be sufficient.
 
 ## Online Community and Communication
 
 **In Homework 1, you will be asked to introduce yourself to the instructor. This includes sending
-a passport-style photo of yourself to the instructor (or adding one on your Canvas profile).
+a passport-style photo of yourself to the instructor.
 The photo must be clear, with your face un-obstructed.**
 If you are not comfortable providing a photo, then you will need to contact the instructor to set up
-a brief in-person meeting to introduce yourself.
+a brief appointment (either via Zoom or in-person) to introduce yourself.
 Failure to meet this requirement on Homework 1 will result in a 0 (zero) for the Participation component
 of the grade.
 
@@ -152,7 +152,7 @@ and your classmates. Participation on Piazza
 will factor into the Participation component of the grade.
 
 The class Piazza link is:
-[TODO](TODO)
+[https://piazza.com/class/lczhmwfibzedv/](https://piazza.com/class/lczhmwfibzedv/)
 
 The instructor will use Piazza to communicate with the class. If you have
 questions about the course, you should first do a quick search on the Piazza
@@ -229,7 +229,7 @@ repositories to submit assignments. Your repositories will show up here:
 ## Respectfulness and Academic Honesty
 
 Every student is expected to show respect to the instructors and the rest of the class. This course is preparation
-for your future career, so make sure you are behaving with the same level of professionalism that
+for your future career, so please make sure you are behaving with the same level of professionalism that
 would be expected at a future full-time position. The general rule of thumb is:
 **_informal_ is okay, but _disrespectful_ is not**.
 
@@ -280,13 +280,7 @@ Please ensure that you do not engage in or facilitate academic dishonesty in thi
 
 Just as you expect the instructor to grade your coursework in a fair and
 timely fashion, the instructor expects you to take the CSU course
-feedback seriously. Feedback is typically collected during the *two weeks
-before finals week*.
-
-As an encouragement to participate in the course feedback, the instructor will
-monitor the overall response rate via Canvas -- if the overall response rate
-reaches 100%, *all* students in the class will receive bonus points
-worth 50% of a homework assignment.
+feedback seriously. Feedback is typically collected near the end of the course.
 
 Your feedback is important! The instructor will read all of your comments, and use them to help improve the course/teaching in the future. Rather than simply leaving a numeric rating, please describe your rating in words -- for example, a high score without any indication of what you enjoyed/gained from the class is great but not particularly informative, and a low score without any indication of what went wrong in the class will not help the instructor improve.
 
