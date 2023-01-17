@@ -19,7 +19,7 @@ CSU CS 557 Network Verification & Synthesis, Spring 2023
 
 ## Course Overview
 
-This course is a hands-on introduction to verification and synthesis of networked systems. Students will learn how to (1) reason about correctness of networked systems using first-order logic, temporal logic, and Hoare logic, (2) build tools such as model-checkers to formally verify (exhaustively test) networked systems written in various languages, and (3) leverage verification functionality to automatically generate (synthesize) correct networked systems from high-level descriptions of program behavior.
+This course is a hands-on introduction to verification and synthesis of networked systems. Students will learn how to (1) reason about correctness of networked systems using first-order logic, temporal logic, and Hoare logic, (2) build tools such as model-checkers to formally verify (exhaustively test) networked systems written in various languages, and (3) leverage verification functionality to automatically generate (synthesize) correct networked systems from high-level descriptions of network behavior.
 
 ## Prerequisites
 
