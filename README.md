@@ -32,7 +32,7 @@ It is also helpful if you have some basic Linux command-line experience.
 
 1. Learn several approaches for specifying and reasoning about correctness of networked systems.
 2. Learn how to build *verification tools* to check the correctness of networked systems.
-3. Gain exposure to recent research in the area of *network verification and synthesis*.
+3. Gain exposure to recent research in the areas of *network verification* and *network synthesis*.
 4. Apply some verification/synthesis techniques to a networking/systems problem of interest to you.
 
 ## Textbook and Other Reading Materials
