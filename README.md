@@ -20,21 +20,21 @@ CSU CS 557 Network Verification & Synthesis, Spring 2023
 
 ## Course Overview
 
-This course is a hands-on introduction to formal methods. Students will learn how to (1) reason about correctness of programs using first-order logic, temporal logic, and Hoare logic, (2) build tools such as model-checkers to formally verify (exhaustively test) programs written in various languages, and (3) leverage verification functionality to automatically generate (synthesize) correct programs from high-level descriptions of program behavior.
+This course is a hands-on introduction to verification and synthesis of networked systems. Students will learn how to (1) reason about correctness of networked systems using first-order logic, temporal logic, and Hoare logic, (2) build tools such as model-checkers to formally verify (exhaustively test) networked systems written in various languages, and (3) leverage verification functionality to automatically generate (synthesize) correct networked systems from high-level descriptions of program behavior.
 
 ## Prerequisites
 
-There are no official prerequisites, but it is recommended that you
-have some familiarity with the material covered in
-[Programming Languages](TODO).
+It is strongly recommended that you
+have a solid background in
+[Computer Networks](https://www.cs.colostate.edu/~cs457).
 It is also helpful if you have some basic Linux command-line experience.
 
 ## Course Goals
 
-1. Learn several approaches for specifying and reasoning about correctness of programs.
-2. Learn how to build *verification tools* to check the correctness of programs.
-3. Gain exposure to recent research in the area of *program synthesis*.
-4. Apply some verification/synthesis techniques in a domain of interest to you.
+1. Learn several approaches for specifying and reasoning about correctness of networked systems.
+2. Learn how to build *verification tools* to check the correctness of networked systems.
+3. Gain exposure to recent research in the area of *network verification and synthesis*.
+4. Apply some verification/synthesis techniques to a networking/systems problem of interest to you.
 
 ## Textbook and Other Reading Materials
 
