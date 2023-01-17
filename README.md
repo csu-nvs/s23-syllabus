@@ -11,7 +11,7 @@ CSU CS 557 Network Verification & Synthesis, Spring 2023
 
 [Jedidiah McClurg](https://www.jrmcclurg.com/), Assistant Professor of CS
 
-- Contact: mcclurg (at) colostate (dot) edu
+- Contact: mcclurg (at) colostate (dot) edu (please read [Online Community and Communication](#communication) before emailing)
 - Office Hours: Tue Thu TODO-TODO, via [Zoom](TODO)
 
 ## Teaching Assistant (TA)
@@ -136,7 +136,7 @@ We will have short final-project presentations during the final class period. Ea
 
 In your talk, please be sure to cover each of the 4 elements on the project (Introduction, Examples, Approach, Evaluation). One detailed slide for each of these should be sufficient.
 
-## Online Community and Communication
+## Online Community and Communication<a id='communication' />
 
 **In Homework 1, you will be asked to introduce yourself to the instructor. This includes sending
 a passport-style photo of yourself to the instructor.
