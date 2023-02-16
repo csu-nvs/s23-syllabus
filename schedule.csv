@@ -9,7 +9,7 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 ,Feb 9,"semantics of predicate logic, SMT solving",[lecture09](https://piazza.com/class_profile/get_resource/lczhmwfibzedv/ldtp6e5dsxh7ae),"LICS 2.4, [SMT](https://people.eecs.berkeley.edu/~sseshia/pubdir/SMT-BookChapter.pdf)",[hw02](https://colostate.instructure.com/courses/162255/assignments/2090921) due,
 5,Feb 14,linear temporal logic (LTL),[lecture10](https://piazza.com/class_profile/get_resource/lczhmwfibzedv/ldwmz0k72wi5i4),LICS 3.2,[hw03](https://colostate.instructure.com/courses/162255/assignments/2095822) assigned,
 ,Feb 16,model checking,[lecture11](https://piazza.com/class_profile/get_resource/lczhmwfibzedv/le3roueiakw5ix),LICS 3.3,,
-6,Feb 21,computation tree logic (CTL),[lecture12](#),LICS 3.4,,
+6,Feb 21,computation tree logic (CTL),[lecture12](https://piazza.com/class_profile/get_resource/lczhmwfibzedv/le6kctpowwh4u),LICS 3.4,,
 ,Feb 23,CTL model checking,[lecture13](#),LICS 3.6.1,[hw03](https://colostate.instructure.com/courses/162255/assignments/2095822) due,
 7,Feb 28,*video lecture: LTL model checking*,[lecture14](#),LICS 3.6.3,[hw04](https://github.com/csu-nvs/s23-assignment-hw04) assigned,
 ,Mar 2,TBA,,,,
