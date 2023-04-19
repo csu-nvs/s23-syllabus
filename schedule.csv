@@ -25,8 +25,8 @@ week,date,topic,lecture notes,supplemental reading,homework,project
 ,Apr 6,*no class*,,,,
 13,Apr 11,paper presentation (Zachary),[TRANSIT: Specifying Protocols with Concolic Snippets](http://acg.cis.upenn.edu/papers/pldi13_transit.pdf),,,
 ,Apr 13,program syntax/semantics,[lecture15](https://piazza.com/class_profile/get_resource/lczhmwfibzedv/lgeo94ngugp25s),LICS 4.1-4.2.1,[hw04](https://colostate.instructure.com/courses/162255/assignments/2117084) assigned,
-14,Apr 18,program verification,[lecture16](https://piazza.com/class_profile/get_resource/lczhmwfibzedv/lgmi9d2ncwyx7),LICS 4.2.2-4.2.4,,
-,Apr 20,Hoare logic,[lecture17](#),LICS 4.3,,
+14,Apr 18,"program verification, Hoare logic, verification conditions","[lecture16](https://piazza.com/class_profile/get_resource/lczhmwfibzedv/lgmi9d2ncwyx7), [lecture17](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/kvalbq1rris4s5), [lecture18](https://piazza.com/class_profile/get_resource/kspk2xt3e862wl/kvg6yed7oyl2d0)","LICS 4.2.2-4.2.4, 4.3, [Weakest Preconditions](https://www.lri.fr/~marche/MPRI-2-36-1/2013/poly1.pdf)",,
+,Apr 20,*no class*,,,,
 15,Apr 25,paper presentation,[NetKAT: Semantic Foundations for Networks](https://www.cs.cornell.edu/~jnfoster/papers/frenetic-netkat.pdf),,[hw04](https://colostate.instructure.com/courses/162255/assignments/2117084) due,
 ,Apr 27,paper presentation,[VeriCon: towards verifying controller programs in software-defined networks](https://www.cs.technion.ac.il/~shachari/dl/pldi2014.pdf),,extra credit [hw05](https://github.com/csu-nvs/s23-assignment-hw05) assigned,
 16,May 2,paper presentation,[p4v: Practical Verification for Programmable Data Planes](https://dl.acm.org/doi/pdf/10.1145/3230543.3230582),,,presentation slides due
