@@ -131,7 +131,7 @@ The Project Report (an the accompanying Project Code) are due on the last day of
 
 ## Project Presentation
 
-We will have short final-project presentations during the final class period. Each presentation time slot will be about 6 minutes. Aim for **4-5 minutes** of presentation, and that will leave 1-2 minutes for questions. Please practice your talk to ensure that it falls in the 4-5 minute range, so that we can keep on schedule. Your presentations slides are due before the first presentation begins (see Schedule). Please upload your slides in PDF format to your project repository.
+We will have short final-project presentations during the final class period. Each presentation time slot will be about 9 minutes. Aim for **7-8 minutes** of presentation, and that will leave 1-2 minutes for questions. Please practice your talk to ensure that it falls in the 7-8 minute range, so that we can keep on schedule. Your presentations slides are due before the first presentation begins (see Schedule). Please upload your slides in PDF format to your project repository.
 
 In your talk, please be sure to cover each of the 4 elements on the project (Introduction, Examples, Approach, Evaluation). One detailed slide for each of these should be sufficient.
 
